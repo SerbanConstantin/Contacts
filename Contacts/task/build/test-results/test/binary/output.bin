@@ -1,0 +1,50 @@
+[1;31m
+Start test 1[0m
+4Enter action (add, remove, edit, count, info, exit):
+> exit
+[1;31m
+Start test 2[0m
+4Enter action (add, remove, edit, count, info, exit):
+> count
+The Phone Book has 0 records.4Enter action (add, remove, edit, count, info, exit):
+> exit
+[1;31m
+Start test 3[0m
+4Enter action (add, remove, edit, count, info, exit):
+> add
+&Enter the type (person, organization):	> person
+Enter the name of the person: > John
+!Enter the surname of the person: > Smith
+Enter the birth date:> 
+Bad birth date!
+Enter the gender (M, F):> 
+Bad gender!
+Enter the number:> 123 456 789
+The record created!
+
+4Enter action (add, remove, edit, count, info, exit):
+> count
+The Phone Book has 1 records.4Enter action (add, remove, edit, count, info, exit):
+> exit
+[1;31m
+Start test 4[0m
+4Enter action (add, remove, edit, count, info, exit):
+> add
+&Enter the type (person, organization):	> person
+Enter the name of the person: > John
+!Enter the surname of the person: > Smith
+Enter the birth date:> 
+Bad birth date!
+Enter the gender (M, F):> 
+Bad gender!
+Enter the number:> 123 456 789
+The record created!
+
+4Enter action (add, remove, edit, count, info, exit):
+> list
+4Enter action (add, remove, edit, count, info, exit):
+> 1
+4Enter action (add, remove, edit, count, info, exit):
+> menu
+4Enter action (add, remove, edit, count, info, exit):
+> exit
